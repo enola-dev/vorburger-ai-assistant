@@ -1,10 +1,6 @@
-# vorburger-ai-assistant
+# Vorburger.ch's Agentic AI Assistant
 
-This is an 🤵 Agentic AI Assistant that's working for [🧔‍♂️ Michael Vorburger.ch](https://www.vorburger.ch)...yeah, for real!
-
-## Documentation ℹ️
-
-See <!-- TODO https://ai.vorburger.ch, built from --> [`docs/`](docs/).
+This is an 🤵 Agentic AI Assistant that's working for [🧔‍♂️ Michael Vorburger.ch](https://www.vorburger.ch)!
 
 ## License [![CC BY 4.0][cc-by-shield]][cc-by].
 

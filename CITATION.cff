@@ -1,0 +1,46 @@
+# https://citation-file-format.github.io
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files
+# https://github.com/citation-file-format/ruby-cff
+
+cff-version: 1.2.0
+title: "Vorburger.ch Agentic AI Assistant"
+message: "If you use this content, please cite it using the metadata from this file."
+type: dataset
+version: main
+authors:
+  - family-names: Vorburger.ch
+    given-names: Michael
+    orcid: https://orcid.org/0009-0001-4017-9397
+identifiers:
+  - type: url
+    description: Documentation
+    value: "https://ai.vorburger.ch"
+# TODO Other identifiers type doi, swh
+repository-code: "https://github.com/enola-dev/vorburger-ai-assistant"
+license: CC-BY-4.0
+url: "https://ai.vorburger.ch"
+date-released: 2025-02-22
+abstract: An AI Assistant using an agentic knowledge graph based AI assistant working for Michael Vorburger.ch, using the Enola.dev AI tool.
+keywords:
+  - ADK
+  - AI
+  - Agentic AI
+  - Assistant
+  - Knowledge Graph
+  - Knowledge Graph AI
+  - Knowledge Graph Assistant
+  - Enola.dev
+  - RDF
+  - RDF4j
+  - semantic-web
+  - Markdown
+  - Linked Data
+  - linked-data
+  - knowledge-graph
+  - knowledge-base
+  - knowledge-representation
+  - Java
+  - Graphviz
+  - Graph
+  - Modeling
+  - Mermaid
